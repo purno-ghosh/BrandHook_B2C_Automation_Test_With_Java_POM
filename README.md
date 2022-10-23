@@ -29,7 +29,8 @@ gradle clean test
 ```sh
 ```
 ## Report View 
-![Brandhook Result](https://user-images.githubusercontent.com/93866513/197388250-2f525a47-e925-4dc4-b264-286d2c27ac51.jpg)
+![image](https://user-images.githubusercontent.com/93866513/197390635-db8a6be1-c110-492b-ab15-198e74c164fe.png)
+
 
 ## Screen Rec.
 https://user-images.githubusercontent.com/93866513/197388192-a441574d-8201-4a39-ab0f-fdc048c6081d.mp4
