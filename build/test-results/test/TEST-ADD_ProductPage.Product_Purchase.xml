@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ADD_ProductPage.Product_Purchase" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-23T09:15:27" hostname="DESKTOP-5BH13MG" time="72.964">
+  <properties/>
+  <testcase name="Product_find_purchase" classname="ADD_ProductPage.Product_Purchase" time="72.964"/>
+  <system-out><![CDATA[Order Summary
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

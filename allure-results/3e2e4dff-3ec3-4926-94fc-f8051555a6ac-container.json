@@ -1,0 +1,1 @@
+{"uuid":"3e2e4dff-3ec3-4926-94fc-f8051555a6ac","name":"Brandhook Ecom Registration Functionality Test","children":["42ed9354-329a-40eb-af61-6ec82ab15528"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1666505549546,"stop":1666505550848}],"afters":[],"start":1666505549546,"stop":1666505600156}

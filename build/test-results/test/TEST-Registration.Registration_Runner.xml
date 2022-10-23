@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Registration.Registration_Runner" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-23T09:15:03" hostname="DESKTOP-5BH13MG" time="19.724">
+  <properties/>
+  <testcase name="Do_Registration" classname="Registration.Registration_Runner" time="19.724"/>
+  <system-out><![CDATA[Registration successful. Please verify your email.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,22 @@
+<suite thread-count="1" verbose="1" name="E-commerce portal Automated ">
+
+    <test name="Brandhook Ecom Login Functionality Test">
+        <classes>
+            <class name="Login_Page.Login_Runner"/>
+        </classes>
+    </test>
+
+    <test name="Brandhook Ecom Registration Functionality Test">
+        <classes>
+            <class name="Registration.Registration_Runner"/>
+        </classes>
+    </test>
+
+    <test name="Brandhook Ecom Add to card Functionality Test">
+        <classes>
+            <class name="ADD_ProductPage.Product_Purchase"/>
+        </classes>
+    </test>
+
+
+</suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login_Page.Login_Runner" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-10-23T09:14:20" hostname="DESKTOP-5BH13MG" time="38.875">
+  <properties/>
+  <testcase name="Login_With_Invalid_password" classname="Login_Page.Login_Runner" time="16.428"/>
+  <testcase name="Login_With_Invalid_email" classname="Login_Page.Login_Runner" time="11.014"/>
+  <testcase name="Login_With_Valid_user" classname="Login_Page.Login_Runner" time="11.342"/>
+  <system-out><![CDATA[Invalid login credentials
+Invalid login credentials
+Purna
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

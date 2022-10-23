@@ -1,0 +1,1 @@
+{"uuid":"bf1dbfbd-b38c-44b1-bc97-115d0a0f64b3","name":"Othoba_Automation_Test_With_Java_POM","children":["167f63c9-02ab-4691-acf1-6da098045460"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1666466774473,"stop":1666466776530}],"afters":[],"start":1666466774455,"stop":1666466788473}
