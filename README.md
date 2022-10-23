@@ -28,7 +28,7 @@ gradle clean test
 4. To view report
 ```sh
 ```
-##Report View 
+## Report View 
 ![Brandhook Result](https://user-images.githubusercontent.com/93866513/197388250-2f525a47-e925-4dc4-b264-286d2c27ac51.jpg)
 
 ## Screen Rec.
